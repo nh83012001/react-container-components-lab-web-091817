@@ -20,8 +20,10 @@
     "chai": "^3.5.0",
     "enzyme": "^3.1.0",
     "enzyme-adapter-react-16": "^1.0.1",
+    "es6-promise": "^4.1.1",
     "expect": "^21.2.1",
     "isomorphic-fetch": "^2.2.1",
+    "mocha-multi": "^0.11.1",
     "react": "^16.0.0 ",
     "react-dom": "^16.0.0 ",
     "sinon": "^1.17.7"
